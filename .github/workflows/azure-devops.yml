@@ -24,4 +24,4 @@ jobs:
           username: vietnem
           password: ${{ secrets.DOCKER_PASSWORD }}
           repository: vietnem/terraform
-          tags: 0.14.4-azure-devops, 0.14-azure-devops, 0.14.4-azdo, 0.14-azdo
+          tags: 0.14.11-azure-devops, 0.14-azure-devops, 0.14.11-azdo, 0.14-azdo
