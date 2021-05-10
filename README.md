@@ -1,5 +1,7 @@
 # Terraform on Docker
 
+[![Terraform for Azure DevOps pipeline](https://github.com/pomverte/terraform-docker/actions/workflows/azure-devops.yml/badge.svg)](https://github.com/pomverte/terraform-docker/actions/workflows/azure-devops.yml)
+[![Terraform with Python](https://github.com/pomverte/terraform-docker/actions/workflows/python.yml/badge.svg)](https://github.com/pomverte/terraform-docker/actions/workflows/python.yml)
 ![](https://img.shields.io/badge/Terraform-0.14.11-blueviolet)
 
 Terraform container image variants with Python3 and for Azure DevOps Pipelines.
